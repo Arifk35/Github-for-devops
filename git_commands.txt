@@ -1,0 +1,6 @@
+1. git init
+2. git status
+3. git add  -> untracked to staged
+4.git commit -m " " -> staged to unstaged
+5.git rm --cached <file> -> staged to untracked
+6.git restore 
