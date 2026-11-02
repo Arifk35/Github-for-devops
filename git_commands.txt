@@ -12,4 +12,8 @@ Public repository
 Private repository
 8. gh repo create Github-for-devops --private --source. --remote=origin --push
 
- 
+command ka use local Git repository ke saath connected remote repositories (GitHub/GitLab) ke URLs check karne ke liye hota hai.
+9. git remote -v 
+
+command ka use local Git repository se code ko remote repository (GitHub) ke master branch par upload karne ke liye hota hai.
+10. git push origin master 
