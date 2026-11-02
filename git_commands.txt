@@ -17,3 +17,6 @@ command ka use local Git repository ke saath connected remote repositories (GitH
 
 command ka use local Git repository se code ko remote repository (GitHub) ke master branch par upload karne ke liye hota hai.
 10. git push origin master 
+
+git pull GitHub (remote) se latest changes download karke aapki local branch mein merge karta hai. Matlab: git push local se GitHub pe bhejta hai, git pull GitHub se local pe laata hai.
+11. git pull origin main
