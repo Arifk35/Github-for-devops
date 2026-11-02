@@ -3,4 +3,13 @@
 3. git add  -> untracked to staged
 4.git commit -m " " -> staged to unstaged
 5.git rm --cached <file> -> staged to untracked
-6.git restore 
+6.git restore
+
+# For creating repository from terminal in github command
+Public repository
+7. gh repo create Github-for-devops --public --source=. --remote=origin --push
+
+Private repository
+8. gh repo create Github-for-devops --private --source. --remote=origin --push
+
+ 
